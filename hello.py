@@ -1,0 +1,1 @@
+print("learn more knowledge for yourself")
